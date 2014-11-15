@@ -5,7 +5,7 @@
 
 <p>Joc de EDA PACMAN quadrimestre de primavera del curs 2011/2012 <a href="https://pacman-fib.jutge.org/?cmd=portada"> web del Pacman (jutge.org)</a></p>
 <p>Ronda a la que em van eliminar --> <a href="https://pacman-fib.jutge.org/?cmd=rondes&ronda=93">Ronda 93</a></p>
-<p>Prgrama principal escrit en c++</p>
+<p>Prgrama principal escrit en c++ </p>
 
 <br>
 <p>Informació per a compilar i executar( +material necessari )
